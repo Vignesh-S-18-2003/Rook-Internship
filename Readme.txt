@@ -26,6 +26,9 @@ Order Page :
 	1. Here details of your order will be displayed
 	2. Confirmation mail would sent to you once order placed or confirmed.
 
+
 GitHub Link : https://github.com/Vignesh-S-18-2003/Rook-Internship
 
 Hosted Link : https://668c3b68d475269c5a4f5c6a--warm-biscuit-cf3b50.netlify.app/home
+
+File Link : https://drive.google.com/file/d/1feDRPsvyAQPesOMESOLAbciPOOfjGywz/view?usp=sharing
