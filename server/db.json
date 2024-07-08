@@ -1,0 +1,29 @@
+{
+    "orders": [
+      {
+      "name": "Vignesh",
+      "email": "vigneshsm2003@gmail.com",
+      "addressLine1": "123 9th St",
+      "addressLine2": "abc Nagar",
+      "pincode": "602024",
+      "number": "+91 8754582761",
+      "list": [
+        { "name": "Vivo Y21", "quantity": 2 },
+        { "name": "Xiomi 5G", "quantity": 1 }
+      ],
+      "total": 610.08
+    },
+      {
+      "name": "Vignesh",
+      "email": "vignesh12a240@gmail.com",
+      "addressLine1": "abcd",
+      "pincode": "600001",
+      "number": "+91 8754582761",
+      "list": [
+        { "name": "OPPO F5", "quantity": 4 },
+        { "name": "Xiomi 5G", "quantity": 1 }
+      ],
+      "total": 1241.2
+    }
+  ]
+  }
